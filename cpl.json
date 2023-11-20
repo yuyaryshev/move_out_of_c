@@ -1,0 +1,1102 @@
+[
+ {
+  "cpl": 225,
+  "filePath": "lib\\cjs\\arrayExpectOne.js",
+  "pos": 389
+ },
+ {
+  "cpl": 226,
+  "filePath": "lib\\cjs\\arrayExpectOne.js",
+  "pos": 496
+ },
+ {
+  "cpl": 227,
+  "filePath": "lib\\cjs\\awaitDelay.js",
+  "pos": 569
+ },
+ {
+  "cpl": 228,
+  "filePath": "lib\\cjs\\execOnce.js",
+  "pos": 789
+ },
+ {
+  "cpl": 229,
+  "filePath": "lib\\cjs\\expectDefined.js",
+  "pos": 446
+ },
+ {
+  "cpl": 230,
+  "filePath": "lib\\cjs\\expectDefined.js",
+  "pos": 637
+ },
+ {
+  "cpl": 231,
+  "filePath": "lib\\cjs\\expectDefined.js",
+  "pos": 936
+ },
+ {
+  "cpl": 232,
+  "filePath": "lib\\cjs\\expectOne.js",
+  "pos": 457
+ },
+ {
+  "cpl": 233,
+  "filePath": "lib\\cjs\\expectOne.js",
+  "pos": 555
+ },
+ {
+  "cpl": 234,
+  "filePath": "lib\\cjs\\failTimeoutInTestMode.js",
+  "pos": 1961
+ },
+ {
+  "cpl": 235,
+  "filePath": "lib\\cjs\\failTimeoutInTestMode.js",
+  "pos": 2601
+ },
+ {
+  "cpl": 236,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 1079
+ },
+ {
+  "cpl": 237,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 1440
+ },
+ {
+  "cpl": 238,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 1607
+ },
+ {
+  "cpl": 239,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 1852
+ },
+ {
+  "cpl": 240,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 2107
+ },
+ {
+  "cpl": 241,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 2528
+ },
+ {
+  "cpl": 242,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 2950
+ },
+ {
+  "cpl": 243,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 3132
+ },
+ {
+  "cpl": 244,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 3415
+ },
+ {
+  "cpl": 245,
+  "filePath": "lib\\cjs\\GenericGenResult.js",
+  "pos": 3747
+ },
+ {
+  "cpl": 246,
+  "filePath": "lib\\cjs\\globalHandler.js",
+  "pos": 403
+ },
+ {
+  "cpl": 247,
+  "filePath": "lib\\cjs\\hasher.js",
+  "pos": 1334
+ },
+ {
+  "cpl": 248,
+  "filePath": "lib\\cjs\\IntIdManager.js",
+  "pos": 3386
+ },
+ {
+  "cpl": 249,
+  "filePath": "lib\\cjs\\IntIdManager.js",
+  "pos": 3704
+ },
+ {
+  "cpl": 250,
+  "filePath": "lib\\cjs\\JsRef.js",
+  "pos": 533
+ },
+ {
+  "cpl": 251,
+  "filePath": "lib\\cjs\\JsRef.js",
+  "pos": 803
+ },
+ {
+  "cpl": 252,
+  "filePath": "lib\\cjs\\JsRef.js",
+  "pos": 1064
+ },
+ {
+  "cpl": 253,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 2726
+ },
+ {
+  "cpl": 254,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 3903
+ },
+ {
+  "cpl": 255,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 9797
+ },
+ {
+  "cpl": 256,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 9979
+ },
+ {
+  "cpl": 257,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 14675
+ },
+ {
+  "cpl": 258,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 14814
+ },
+ {
+  "cpl": 259,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 15334
+ },
+ {
+  "cpl": 260,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 16315
+ },
+ {
+  "cpl": 261,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 17089
+ },
+ {
+  "cpl": 262,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 19521
+ },
+ {
+  "cpl": 263,
+  "filePath": "lib\\cjs\\lexer.js",
+  "pos": 23172
+ },
+ {
+  "cpl": 264,
+  "filePath": "lib\\cjs\\linearDataInterpolation.js",
+  "pos": 2203
+ },
+ {
+  "cpl": 265,
+  "filePath": "lib\\cjs\\linearDataInterpolation.js",
+  "pos": 2322
+ },
+ {
+  "cpl": 266,
+  "filePath": "lib\\cjs\\managableTimer.test.js",
+  "pos": 895
+ },
+ {
+  "cpl": 267,
+  "filePath": "lib\\cjs\\manageableTimer.js",
+  "pos": 3490
+ },
+ {
+  "cpl": 268,
+  "filePath": "lib\\cjs\\manageableTimer.js",
+  "pos": 4057
+ },
+ {
+  "cpl": 269,
+  "filePath": "lib\\cjs\\plainWithNoLoops.js",
+  "pos": 1737
+ },
+ {
+  "cpl": 270,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 2638
+ },
+ {
+  "cpl": 271,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 3270
+ },
+ {
+  "cpl": 272,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 3389
+ },
+ {
+  "cpl": 273,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 3595
+ },
+ {
+  "cpl": 274,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 4041
+ },
+ {
+  "cpl": 275,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 4160
+ },
+ {
+  "cpl": 276,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 5405
+ },
+ {
+  "cpl": 277,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 5770
+ },
+ {
+  "cpl": 278,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 7518
+ },
+ {
+  "cpl": 279,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 7779
+ },
+ {
+  "cpl": 280,
+  "filePath": "lib\\cjs\\promiseFuncs.js",
+  "pos": 12541
+ },
+ {
+  "cpl": 281,
+  "filePath": "lib\\cjs\\removePrefix.js",
+  "pos": 616
+ },
+ {
+  "cpl": 282,
+  "filePath": "lib\\cjs\\removeSuffix.js",
+  "pos": 640
+ },
+ {
+  "cpl": 283,
+  "filePath": "lib\\cjs\\splitParse.js",
+  "pos": 2102
+ },
+ {
+  "cpl": 284,
+  "filePath": "lib\\cjs\\splitParse.js",
+  "pos": 2403
+ },
+ {
+  "cpl": 285,
+  "filePath": "lib\\cjs\\tokenWriter.js",
+  "pos": 4063
+ },
+ {
+  "cpl": 286,
+  "filePath": "lib\\cjs\\tryStringify.js",
+  "pos": 1374
+ },
+ {
+  "cpl": 287,
+  "filePath": "lib\\cjs\\tryStringify.js",
+  "pos": 1748
+ },
+ {
+  "cpl": 288,
+  "filePath": "lib\\cjs\\tryStringify.js",
+  "pos": 1859
+ },
+ {
+  "cpl": 289,
+  "filePath": "lib\\cjs\\upsertMap.js",
+  "pos": 889
+ },
+ {
+  "cpl": 290,
+  "filePath": "lib\\cjs\\upsertMap.js",
+  "pos": 1005
+ },
+ {
+  "cpl": 291,
+  "filePath": "lib\\cjs\\YJsPathArray.js",
+  "pos": 2988
+ },
+ {
+  "cpl": 292,
+  "filePath": "lib\\cjs\\YJsPathArray.js",
+  "pos": 3440
+ },
+ {
+  "cpl": 1,
+  "filePath": "lib\\cjs\\YJsPathSet.js",
+  "pos": 3812
+ },
+ {
+  "cpl": 2,
+  "filePath": "lib\\cjs\\YJsPathSet.js",
+  "pos": 4169
+ },
+ {
+  "cpl": 3,
+  "filePath": "lib\\cjs\\YJsPathSet.js",
+  "pos": 4377
+ },
+ {
+  "cpl": 4,
+  "filePath": "lib\\cjs\\YJsPathSet.js",
+  "pos": 5060
+ },
+ {
+  "cpl": 5,
+  "filePath": "lib\\cjs\\YTimeIntervals.js",
+  "pos": 7723
+ },
+ {
+  "cpl": 293,
+  "filePath": "lib\\esm\\arrayExpectOne.js",
+  "pos": 274
+ },
+ {
+  "cpl": 294,
+  "filePath": "lib\\esm\\arrayExpectOne.js",
+  "pos": 381
+ },
+ {
+  "cpl": 295,
+  "filePath": "lib\\esm\\awaitDelay.js",
+  "pos": 421
+ },
+ {
+  "cpl": 296,
+  "filePath": "lib\\esm\\execOnce.js",
+  "pos": 687
+ },
+ {
+  "cpl": 297,
+  "filePath": "lib\\esm\\expectDefined.js",
+  "pos": 235
+ },
+ {
+  "cpl": 298,
+  "filePath": "lib\\esm\\expectDefined.js",
+  "pos": 426
+ },
+ {
+  "cpl": 299,
+  "filePath": "lib\\esm\\expectDefined.js",
+  "pos": 646
+ },
+ {
+  "cpl": 300,
+  "filePath": "lib\\esm\\expectOne.js",
+  "pos": 352
+ },
+ {
+  "cpl": 301,
+  "filePath": "lib\\esm\\expectOne.js",
+  "pos": 450
+ },
+ {
+  "cpl": 302,
+  "filePath": "lib\\esm\\failTimeoutInTestMode.js",
+  "pos": 1664
+ },
+ {
+  "cpl": 303,
+  "filePath": "lib\\esm\\failTimeoutInTestMode.js",
+  "pos": 2293
+ },
+ {
+  "cpl": 304,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 910
+ },
+ {
+  "cpl": 305,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 1271
+ },
+ {
+  "cpl": 306,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 1438
+ },
+ {
+  "cpl": 307,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 1690
+ },
+ {
+  "cpl": 308,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 1945
+ },
+ {
+  "cpl": 309,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 2366
+ },
+ {
+  "cpl": 310,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 2788
+ },
+ {
+  "cpl": 311,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 2970
+ },
+ {
+  "cpl": 312,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 3253
+ },
+ {
+  "cpl": 313,
+  "filePath": "lib\\esm\\GenericGenResult.js",
+  "pos": 3591
+ },
+ {
+  "cpl": 314,
+  "filePath": "lib\\esm\\globalHandler.js",
+  "pos": 242
+ },
+ {
+  "cpl": 315,
+  "filePath": "lib\\esm\\hasher.js",
+  "pos": 962
+ },
+ {
+  "cpl": 316,
+  "filePath": "lib\\esm\\IntIdManager.js",
+  "pos": 3281
+ },
+ {
+  "cpl": 317,
+  "filePath": "lib\\esm\\IntIdManager.js",
+  "pos": 3561
+ },
+ {
+  "cpl": 318,
+  "filePath": "lib\\esm\\JsRef.js",
+  "pos": 435
+ },
+ {
+  "cpl": 319,
+  "filePath": "lib\\esm\\JsRef.js",
+  "pos": 705
+ },
+ {
+  "cpl": 320,
+  "filePath": "lib\\esm\\JsRef.js",
+  "pos": 942
+ },
+ {
+  "cpl": 321,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 2395
+ },
+ {
+  "cpl": 322,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 3544
+ },
+ {
+  "cpl": 323,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 9438
+ },
+ {
+  "cpl": 324,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 9620
+ },
+ {
+  "cpl": 325,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 14316
+ },
+ {
+  "cpl": 326,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 14455
+ },
+ {
+  "cpl": 327,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 14975
+ },
+ {
+  "cpl": 328,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 15956
+ },
+ {
+  "cpl": 329,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 16730
+ },
+ {
+  "cpl": 330,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 19162
+ },
+ {
+  "cpl": 331,
+  "filePath": "lib\\esm\\lexer.js",
+  "pos": 22795
+ },
+ {
+  "cpl": 332,
+  "filePath": "lib\\esm\\linearDataInterpolation.js",
+  "pos": 2055
+ },
+ {
+  "cpl": 333,
+  "filePath": "lib\\esm\\linearDataInterpolation.js",
+  "pos": 2174
+ },
+ {
+  "cpl": 334,
+  "filePath": "lib\\esm\\managableTimer.test.js",
+  "pos": 825
+ },
+ {
+  "cpl": 335,
+  "filePath": "lib\\esm\\manageableTimer.js",
+  "pos": 3258
+ },
+ {
+  "cpl": 336,
+  "filePath": "lib\\esm\\manageableTimer.js",
+  "pos": 3799
+ },
+ {
+  "cpl": 337,
+  "filePath": "lib\\esm\\plainWithNoLoops.js",
+  "pos": 1457
+ },
+ {
+  "cpl": 338,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 1876
+ },
+ {
+  "cpl": 339,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 2440
+ },
+ {
+  "cpl": 340,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 2559
+ },
+ {
+  "cpl": 341,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 2765
+ },
+ {
+  "cpl": 342,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 3175
+ },
+ {
+  "cpl": 343,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 3294
+ },
+ {
+  "cpl": 344,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 4505
+ },
+ {
+  "cpl": 345,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 4870
+ },
+ {
+  "cpl": 346,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 6526
+ },
+ {
+  "cpl": 347,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 6787
+ },
+ {
+  "cpl": 348,
+  "filePath": "lib\\esm\\promiseFuncs.js",
+  "pos": 11127
+ },
+ {
+  "cpl": 349,
+  "filePath": "lib\\esm\\removePrefix.js",
+  "pos": 394
+ },
+ {
+  "cpl": 350,
+  "filePath": "lib\\esm\\removeSuffix.js",
+  "pos": 418
+ },
+ {
+  "cpl": 351,
+  "filePath": "lib\\esm\\splitParse.js",
+  "pos": 1977
+ },
+ {
+  "cpl": 352,
+  "filePath": "lib\\esm\\splitParse.js",
+  "pos": 2214
+ },
+ {
+  "cpl": 353,
+  "filePath": "lib\\esm\\tokenWriter.js",
+  "pos": 3946
+ },
+ {
+  "cpl": 354,
+  "filePath": "lib\\esm\\tryStringify.js",
+  "pos": 959
+ },
+ {
+  "cpl": 355,
+  "filePath": "lib\\esm\\tryStringify.js",
+  "pos": 1330
+ },
+ {
+  "cpl": 356,
+  "filePath": "lib\\esm\\tryStringify.js",
+  "pos": 1441
+ },
+ {
+  "cpl": 357,
+  "filePath": "lib\\esm\\upsertMap.js",
+  "pos": 728
+ },
+ {
+  "cpl": 358,
+  "filePath": "lib\\esm\\upsertMap.js",
+  "pos": 844
+ },
+ {
+  "cpl": 359,
+  "filePath": "lib\\esm\\YJsPathArray.js",
+  "pos": 2821
+ },
+ {
+  "cpl": 360,
+  "filePath": "lib\\esm\\YJsPathArray.js",
+  "pos": 3235
+ },
+ {
+  "cpl": 361,
+  "filePath": "lib\\esm\\YJsPathSet.js",
+  "pos": 3649
+ },
+ {
+  "cpl": 362,
+  "filePath": "lib\\esm\\YJsPathSet.js",
+  "pos": 4006
+ },
+ {
+  "cpl": 363,
+  "filePath": "lib\\esm\\YJsPathSet.js",
+  "pos": 4214
+ },
+ {
+  "cpl": 364,
+  "filePath": "lib\\esm\\YJsPathSet.js",
+  "pos": 4840
+ },
+ {
+  "cpl": 365,
+  "filePath": "lib\\esm\\YTimeIntervals.js",
+  "pos": 6998
+ },
+ {
+  "cpl": 113,
+  "filePath": "lib\\ts\\arrayExpectOne.js",
+  "pos": 472
+ },
+ {
+  "cpl": 114,
+  "filePath": "lib\\ts\\arrayExpectOne.js",
+  "pos": 626
+ },
+ {
+  "cpl": 115,
+  "filePath": "lib\\ts\\awaitDelay.js",
+  "pos": 675
+ },
+ {
+  "cpl": 116,
+  "filePath": "lib\\ts\\execOnce.js",
+  "pos": 963
+ },
+ {
+  "cpl": 117,
+  "filePath": "lib\\ts\\expectDefined.js",
+  "pos": 468
+ },
+ {
+  "cpl": 118,
+  "filePath": "lib\\ts\\expectDefined.js",
+  "pos": 674
+ },
+ {
+  "cpl": 119,
+  "filePath": "lib\\ts\\expectDefined.js",
+  "pos": 942
+ },
+ {
+  "cpl": 120,
+  "filePath": "lib\\ts\\expectOne.js",
+  "pos": 551
+ },
+ {
+  "cpl": 121,
+  "filePath": "lib\\ts\\expectOne.js",
+  "pos": 686
+ },
+ {
+  "cpl": 122,
+  "filePath": "lib\\ts\\failTimeoutInTestMode.js",
+  "pos": 937
+ },
+ {
+  "cpl": 123,
+  "filePath": "lib\\ts\\failTimeoutInTestMode.js",
+  "pos": 1375
+ },
+ {
+  "cpl": 124,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 1087
+ },
+ {
+  "cpl": 125,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 1455
+ },
+ {
+  "cpl": 126,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 1626
+ },
+ {
+  "cpl": 127,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 1884
+ },
+ {
+  "cpl": 128,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 2165
+ },
+ {
+  "cpl": 129,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 2690
+ },
+ {
+  "cpl": 130,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 3148
+ },
+ {
+  "cpl": 131,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 3370
+ },
+ {
+  "cpl": 132,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 3758
+ },
+ {
+  "cpl": 133,
+  "filePath": "lib\\ts\\GenericGenResult.js",
+  "pos": 4236
+ },
+ {
+  "cpl": 134,
+  "filePath": "lib\\ts\\globalHandler.js",
+  "pos": 440
+ },
+ {
+  "cpl": 135,
+  "filePath": "lib\\ts\\hasher.js",
+  "pos": 1453
+ },
+ {
+  "cpl": 136,
+  "filePath": "lib\\ts\\IntIdManager.js",
+  "pos": 4089
+ },
+ {
+  "cpl": 137,
+  "filePath": "lib\\ts\\IntIdManager.js",
+  "pos": 4277
+ },
+ {
+  "cpl": 138,
+  "filePath": "lib\\ts\\JsRef.js",
+  "pos": 604
+ },
+ {
+  "cpl": 139,
+  "filePath": "lib\\ts\\JsRef.js",
+  "pos": 933
+ },
+ {
+  "cpl": 140,
+  "filePath": "lib\\ts\\JsRef.js",
+  "pos": 1240
+ },
+ {
+  "cpl": 141,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 2736
+ },
+ {
+  "cpl": 142,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 4222
+ },
+ {
+  "cpl": 143,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 11477
+ },
+ {
+  "cpl": 144,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 11687
+ },
+ {
+  "cpl": 145,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 19014
+ },
+ {
+  "cpl": 146,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 19172
+ },
+ {
+  "cpl": 147,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 20002
+ },
+ {
+  "cpl": 148,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 21467
+ },
+ {
+  "cpl": 149,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 22660
+ },
+ {
+  "cpl": 150,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 26162
+ },
+ {
+  "cpl": 151,
+  "filePath": "lib\\ts\\lexer.js",
+  "pos": 31267
+ },
+ {
+  "cpl": 152,
+  "filePath": "lib\\ts\\linearDataInterpolation.js",
+  "pos": 1290
+ },
+ {
+  "cpl": 153,
+  "filePath": "lib\\ts\\linearDataInterpolation.js",
+  "pos": 1471
+ },
+ {
+  "cpl": 154,
+  "filePath": "lib\\ts\\managableTimer.test.js",
+  "pos": 1069
+ },
+ {
+  "cpl": 155,
+  "filePath": "lib\\ts\\manageableTimer.js",
+  "pos": 3920
+ },
+ {
+  "cpl": 156,
+  "filePath": "lib\\ts\\manageableTimer.js",
+  "pos": 4607
+ },
+ {
+  "cpl": 157,
+  "filePath": "lib\\ts\\plainWithNoLoops.js",
+  "pos": 2144
+ },
+ {
+  "cpl": 158,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 2825
+ },
+ {
+  "cpl": 159,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 3449
+ },
+ {
+  "cpl": 160,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 3574
+ },
+ {
+  "cpl": 161,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 3797
+ },
+ {
+  "cpl": 162,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 4264
+ },
+ {
+  "cpl": 163,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 4389
+ },
+ {
+  "cpl": 164,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 5844
+ },
+ {
+  "cpl": 165,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 6281
+ },
+ {
+  "cpl": 166,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 8481
+ },
+ {
+  "cpl": 167,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 8773
+ },
+ {
+  "cpl": 168,
+  "filePath": "lib\\ts\\promiseFuncs.js",
+  "pos": 14402
+ },
+ {
+  "cpl": 169,
+  "filePath": "lib\\ts\\removePrefix.js",
+  "pos": 646
+ },
+ {
+  "cpl": 170,
+  "filePath": "lib\\ts\\removeSuffix.js",
+  "pos": 670
+ },
+ {
+  "cpl": 171,
+  "filePath": "lib\\ts\\splitParse.js",
+  "pos": 2353
+ },
+ {
+  "cpl": 172,
+  "filePath": "lib\\ts\\splitParse.js",
+  "pos": 2691
+ },
+ {
+  "cpl": 173,
+  "filePath": "lib\\ts\\tokenWriter.js",
+  "pos": 4465
+ },
+ {
+  "cpl": 174,
+  "filePath": "lib\\ts\\tryStringify.js",
+  "pos": 1460
+ },
+ {
+  "cpl": 175,
+  "filePath": "lib\\ts\\tryStringify.js",
+  "pos": 1932
+ },
+ {
+  "cpl": 176,
+  "filePath": "lib\\ts\\tryStringify.js",
+  "pos": 2106
+ },
+ {
+  "cpl": 177,
+  "filePath": "lib\\ts\\upsertMap.js",
+  "pos": 1027
+ },
+ {
+  "cpl": 178,
+  "filePath": "lib\\ts\\upsertMap.js",
+  "pos": 1183
+ },
+ {
+  "cpl": 179,
+  "filePath": "lib\\ts\\YJsPathArray.js",
+  "pos": 2165
+ },
+ {
+  "cpl": 180,
+  "filePath": "lib\\ts\\YJsPathArray.js",
+  "pos": 2682
+ },
+ {
+  "cpl": 181,
+  "filePath": "lib\\ts\\YJsPathSet.js",
+  "pos": 3232
+ },
+ {
+  "cpl": 182,
+  "filePath": "lib\\ts\\YJsPathSet.js",
+  "pos": 3650
+ },
+ {
+  "cpl": 183,
+  "filePath": "lib\\ts\\YJsPathSet.js",
+  "pos": 3884
+ },
+ {
+  "cpl": 184,
+  "filePath": "lib\\ts\\YJsPathSet.js",
+  "pos": 4682
+ },
+ {
+  "cpl": 185,
+  "filePath": "lib\\ts\\YTimeIntervals.js",
+  "pos": 8843
+ },
+ {
+  "cpl": 473,
+  "filePath": "src\\BaseTestOpts.ts",
+  "pos": 164
+ }
+]
