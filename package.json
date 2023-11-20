@@ -1,0 +1,15 @@
+{
+  "name": "move_out_of_c",
+  "version": "1.0.0",
+  "description": "I use this script to free space on drive C: by moving files out of it to HDD and than symlinking to HDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuri Yaryshev",
+  "license": "ISC",
+  "dependencies": {
+    "json5": "^2.2.3"
+  }
+}
