@@ -1,0 +1,7 @@
+{
+    "targetFolder": "f:\\C",
+    "toBeDeletedFolder": "c:\\TO_BE_DELETED",
+    "folders": [
+        "C:\\test_folder\\test1"
+    ]
+}

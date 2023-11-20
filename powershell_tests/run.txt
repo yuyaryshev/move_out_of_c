@@ -1,0 +1,2 @@
+cd D:\b\Mine\GIT_Work\move_out_of_c\powershell_tests
+.\move_out_of_c.ps1
